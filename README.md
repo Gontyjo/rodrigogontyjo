@@ -22,4 +22,4 @@
  
 </div>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/rodrigogontyjo)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/222fxgauwooleqeg4s6oxt6ra)
